@@ -40,7 +40,7 @@ int main() {
         if (input_num > max_val) {
             max_val = input_num;
         }
-    }
+    } 
 
     average_first_two = (double)(first_num + second_num) / 2.0;
 
